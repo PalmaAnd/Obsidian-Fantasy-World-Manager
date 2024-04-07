@@ -1,0 +1,1 @@
+Information about the past events, wars, civilizations, and epochs that have shaped the history of your world.

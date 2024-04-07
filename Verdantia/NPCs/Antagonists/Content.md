@@ -1,0 +1,1 @@
+Information about villains, adversaries, monsters, or other foes the players may face, including their strengths, weaknesses, and schemes.

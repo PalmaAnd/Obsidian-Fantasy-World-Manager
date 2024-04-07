@@ -1,0 +1,1 @@
+Details about natural environments such as forests, mountains, swamps, or deserts, including notable features, wildlife, hazards, and potential encounters.

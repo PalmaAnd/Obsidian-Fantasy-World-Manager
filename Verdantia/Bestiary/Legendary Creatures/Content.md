@@ -1,0 +1,1 @@
+Information about unique or powerful adversaries, such as dragons, demons, or legendary beasts, including their lore, abilities, and lairs.

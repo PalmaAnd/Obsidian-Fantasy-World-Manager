@@ -1,0 +1,1 @@
+Notes on lesser characters encountered during the players' travels, including shopkeepers, innkeepers, town guards, and other locals.

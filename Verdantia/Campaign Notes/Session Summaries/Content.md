@@ -1,0 +1,1 @@
+Brief recaps of each gaming session, including notes on player actions, NPC interactions, plot developments, and any unresolved threads.

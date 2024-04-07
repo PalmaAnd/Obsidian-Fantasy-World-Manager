@@ -1,0 +1,1 @@
+Notes on kingdoms, empires, city-states, or other political entities, including rulers, governments, laws, and conflicts.

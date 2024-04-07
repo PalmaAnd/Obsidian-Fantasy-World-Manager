@@ -1,0 +1,1 @@
+Descriptions and stats for creatures and monsters encountered in your campaign, organized by type, habitat, or challenge rating.

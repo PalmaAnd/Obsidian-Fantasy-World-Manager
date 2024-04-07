@@ -1,0 +1,1 @@
+Descriptions and mechanics for magical items found or crafted within your world, including potions, scrolls, wands, and enchanted gear.

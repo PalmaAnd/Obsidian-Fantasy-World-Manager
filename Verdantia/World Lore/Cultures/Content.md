@@ -1,0 +1,1 @@
+Descriptions of the various cultures, societies, races, and ethnic groups inhabiting your world, including their customs, traditions, languages, and relations with other cultures.

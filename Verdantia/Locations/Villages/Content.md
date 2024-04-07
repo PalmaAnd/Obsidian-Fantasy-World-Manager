@@ -1,0 +1,1 @@
+Notes on tiny hamlets, farming communities, or remote outposts, including details about the inhabitants, livelihoods, and potential hooks for quests or encounters.

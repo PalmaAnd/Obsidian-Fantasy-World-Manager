@@ -1,0 +1,1 @@
+Information about smaller settlements, their populations, economies, local governance, and any unique features or events.

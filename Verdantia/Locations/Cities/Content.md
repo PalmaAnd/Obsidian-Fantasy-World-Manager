@@ -1,0 +1,1 @@
+Detailed notes on major urban centers, including information about key landmarks, notable NPCs, factions, shops, and points of interest.

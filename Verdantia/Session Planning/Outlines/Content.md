@@ -1,0 +1,1 @@
+Detailed plans or outlines for upcoming gaming sessions, including plot hooks, encounter ideas, and NPC interactions.

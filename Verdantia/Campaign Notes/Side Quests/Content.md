@@ -1,0 +1,1 @@
+Ideas for optional quests, subplots, or diversions that the players may encounter during their adventures.

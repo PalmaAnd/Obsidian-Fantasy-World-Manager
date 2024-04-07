@@ -1,0 +1,1 @@
+Information about the cosmology, planes of existence, deities, and divine realms present in your campaign setting.

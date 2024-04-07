@@ -1,0 +1,1 @@
+Information about churches, temples, cults, or other religious institutions, including their beliefs, practices, deities, and influence on society.

@@ -1,0 +1,1 @@
+Pre-generated NPCs, monsters, or encounters prepared for use in upcoming sessions.

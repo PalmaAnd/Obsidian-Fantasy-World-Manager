@@ -1,0 +1,1 @@
+Maps of locations, dungeons, or regions relevant to the upcoming session, including notes on terrain, hazards, and points of interest.

@@ -1,0 +1,1 @@
+Profiles of important characters such as quest-givers, allies, villains, or recurring NPCs, including their backgrounds, personalities, motivations, and plot hooks.

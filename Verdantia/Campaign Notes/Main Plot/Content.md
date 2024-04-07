@@ -1,0 +1,1 @@
+Summaries of the overarching storyline, major plot points, and key events shaping the campaign's narrative arc.

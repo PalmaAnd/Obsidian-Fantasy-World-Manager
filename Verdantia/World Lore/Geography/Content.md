@@ -1,0 +1,1 @@
+Details about the geography, climate, ecology, and natural features of your world, including continents, regions, oceans, rivers, and mountains.

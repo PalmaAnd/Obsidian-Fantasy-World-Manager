@@ -1,0 +1,1 @@
+Brainstorms, inspirations, or miscellaneous ideas for your campaign that don't fit neatly into other categories.

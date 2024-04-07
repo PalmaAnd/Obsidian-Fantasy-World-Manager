@@ -1,0 +1,1 @@
+Notes on legendary or unique items of great power, significance, or historical importance, including their origins, abilities, and rumored locations.
