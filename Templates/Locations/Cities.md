@@ -9,6 +9,7 @@
 
 | Population | Citizens | Province | Nation | Culture |
 | ---------- | -------- | -------- | ------ | ------- |
+|            |          |          |        |         |
 
 ## History
 
