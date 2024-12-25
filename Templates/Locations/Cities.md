@@ -1,16 +1,10 @@
-1. [[#History|History]]
-    1. [[#History#Governance|Governance]]
-    2. [[#History#Economy|Economy]]
-    3. [[#History#Culture|Culture]]
-2. [[#Notable Locations|Notable Locations]]
-3. [[#Notable NPCs|Notable NPCs]]
-4. [[#Intrigues and Conflicts|Intrigues and Conflicts]]
-5. [[#Hooks for Adventures|Hooks for Adventures]]
-
-| Population | Citizens | Province | Nation | Culture |
-| ---------- | -------- | -------- | ------ | ------- |
-|            |          |          |        |         |
-
+---
+Province: "use # to connect this city to a province"
+Nation: "use # to connect this city to a nation"
+Culture: "use # to connect this city to a culture"
+Governance: "use # to connect this city to a governance"
+Population: 0
+---
 ## History
 
 ### Governance

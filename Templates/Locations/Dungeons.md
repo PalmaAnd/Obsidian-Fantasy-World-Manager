@@ -1,16 +1,9 @@
-1. [[#History|History]]
-    1. [[#History#Origins|Origins]]
-    2. [[#History#Significant Events|Significant Events]]
-2. [[#Layout|Layout]]
-3. [[#Inhabitants|Inhabitants]]
-4. [[#Traps and Hazards|Traps and Hazards]]
-5. [[#Treasure|Treasure]]
-6. [[#Hooks for Adventures|Hooks for Adventures]]
-
-| Name | Province | Type | Size | Culture |
-| ---- | -------- | ---- | ---- | ------- |
-|      |          |      |      |         |
-
+---
+Province: "use # to connect this dungeon to a province"
+Nation: "use # to connect this dungeon to a nation"
+Governance: "use # to connect this dungeon to a governance"
+CR: 0
+---
 _AI Prompt: "Describe the basic attributes of the dungeon, including its name, province, type(e.g., cave, ruin, fortress), CR-rating, and size."_
 
 ## History

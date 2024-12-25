@@ -1,15 +1,7 @@
-1. [[#Overview|Overview]]
-    1. [[#Overview#Attributes|Attributes]]
-    2. [[#Overview#History|History]]
-    3. [[#Overview#Geography|Geography]]
-    4. [[#Overview#Flora and Fauna|Flora and Fauna]]
-    5. [[#Overview#Hazards|Hazards]]
-    6. [[#Overview#Points of Interest|Points of Interest]]
-    7. [[#Overview#Hooks for Adventures|Hooks for Adventures]]
-
-| Region | Climate | Terrain | Notable Features | Inhabitants |
-| ------ | ------- | ------- | ---------------- | ----------- |
-
+---
+Nation: "use # to connect this place to a nation"
+Province: "use # to connect this place to a province"
+---
 
 *AI Prompt: "Describe the basic attributes of the wilderness area, including its name, location, type, and size."*
 
