@@ -7,7 +7,7 @@ Welcome to the Obsidian Fantasy World Manager! This project is designed to help 
 The project is organized into the following directories:
 
 - `.obsidian/`: Contains Obsidian workspace settings, plugins, and themes.
-- `Templates/`: Contains templates for various types of locations and other game elements.
+- `90 Templates/`: Contains templates for various types of locations and other game elements.
   - `Locations/`: Templates for different types of locations such as cities, dungeons, towns, villages, and wilderness areas.
 - `World Name/`: Contains subdirectories for different aspects of your game world, such as bestiary, campaign notes, factions, items and artifacts, locations, miscellaneous, NPCs, session planning, and world lore.
 
@@ -25,7 +25,7 @@ Templates are a powerful feature in Obsidian that allow you to quickly create ne
 
 1. After enabling the `Templates` plugin, go to the `Plugin Options` section in the settings.
 2. Click on `Templates`.
-3. Set the `Template folder location` to `Templates`. This tells Obsidian where to find your templates.
+3. Set the `Template folder location` to `90 Templates`. This tells Obsidian where to find your templates.
 
 ### Using a Template
 
