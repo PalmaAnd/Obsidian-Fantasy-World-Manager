@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Population": "number",
+    "Health": "number",
+    "Armor": "number",
+    "title": "text",
+    "Factions": "multitext"
+  }
+}
