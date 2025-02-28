@@ -1,54 +1,99 @@
-# Obsidian Fantasy World Manager
+# 🏰 TTRPG Campaign Vault
 
-Welcome to the Obsidian Fantasy World Manager! This project is designed to help Dungeon Masters (DMs) take notes and keep track of everything they need when hosting a pen-and-paper game. The main feature of this project is the use of templates to organize information about locations, NPCs, items, and more.
+Welcome to the **TTRPG Campaign Vault**! 🎲 This Obsidian vault is designed to help **Game Masters** (GMs) organize their tabletop RPG campaigns with a structured and easy-to-navigate format. Whether you're running a homebrew world or a published setting, this vault provides templates, structured folders, and automation for session prep and worldbuilding.
 
-## Project Structure
+---
 
-The project is organized into the following directories:
+## 📂 **Vault Structure**
+This vault follows a **logical organization system** to manage every aspect of your campaign. Below is an overview of the key folders:
 
-- `.obsidian/`: Contains Obsidian workspace settings, plugins, and themes.
-- `90 Templates/`: Contains templates for various types of locations and other game elements.
-  - `Locations/`: Templates for different types of locations such as cities, dungeons, towns, villages, and wilderness areas.
-- `World Name/`: Contains subdirectories for different aspects of your game world, such as bestiary, campaign notes, factions, items and artifacts, locations, miscellaneous, NPCs, session planning, and world lore.
+### 🏛️ **00 - Meta**
+Contains **high-level campaign information** like **session zero notes, campaign roadmap, and custom game rules**.
+- `Session Zero Notes.md` – Player expectations, house rules, and safety tools.
+- `Game System Rules.md` – Summary of rules, homebrew mechanics.
+- `Campaign Overview.md` – A big-picture look at the setting, factions, and conflicts.
 
-## Using Templates
+### 🌍 **01 - Worldbuilding**
+All **lore, history, factions, locations, and cultures** go here.
+- `World Overview.md` – Basic details about the setting, geography, and themes.
+- `Timeline of Major Events.md` – A structured timeline of past and present events.
+- `Factions & Organizations/` – Details about political groups, cults, and secret societies.
+- `Regions & Locations/` – Towns, cities, and landmarks.
 
-Templates are a powerful feature in Obsidian that allow you to quickly create new notes with predefined structures. This project includes several templates to help you organize your game world.
+### 🎭 **02 - Characters**
+Organized **character sheets for NPCs and major figures** in the world.
+- `Major NPCs.md` – Quick reference for key characters.
+- `Villains & Antagonists/` – Details about main villains and their goals.
+- `Allies & Quest Givers/` – Friendly NPCs who assist the party.
 
-### Activating Templates in Obsidian
+### 📜 **03 - Story & Quests**
+Breaks down the **main campaign arc, side quests, and player-driven stories**.
+- `Main Campaign Arc.md` – Structure for the overarching plot.
+- `Side Quests/` – Additional missions, faction quests, and player goals.
+- `Rumors & Hooks.md` – Small ideas that can turn into full adventures.
 
-1. Open Obsidian and go to `Settings` (click the gear icon in the lower left corner).
-2. Navigate to the `Core Plugins` section.
-3. Enable the `Templates` plugin by toggling the switch next to it.
+### ⚔️ **04 - Mechanics & Homebrew**
+A place for **custom mechanics, homebrew items, and unique rules**.
+- `Custom Rules.md` – Alternative rules and system tweaks.
+- `Items & Equipment/` – Unique magic items and artifacts.
+- `Custom Monsters & Encounters/` – Homebrew enemies and encounter ideas.
 
-### Configuring the Templates Plugin
+### 🎲 **05 - Session Planning**
+Keeps track of **upcoming sessions, encounters, and campaign progress**.
+- `Next Session Agenda.md` – Outline for the next session.
+- `Encounters & Combat Notes.md` – Enemy stats, battle plans, and challenges.
+- `XP & Rewards Tracker.md` – Keeps track of player experience and loot.
 
-1. After enabling the `Templates` plugin, go to the `Plugin Options` section in the settings.
-2. Click on `Templates`.
-3. Set the `Template folder location` to `90 Templates`. This tells Obsidian where to find your templates.
+### 🎲 **06 - Random Generators & Tables**
+Includes **procedural generators** for encounters, loot, and world events.
+- `Random Events Table.md` – d100 table for unexpected in-game events.
+- `Encounters/` – Randomized NPC and combat encounter lists.
 
-### Using a Template
+### 📚 **07 - Reference Materials**
+Contains **quick-access rules, mechanics, and summaries** for easy lookup.
+- `Rules Summary.md` – Condensed rules reference for fast lookup.
+- `Monster Index.md` – Quick reference for common creatures and enemies.
 
-1. Create a new note in Obsidian.
-2. Click on the `Templates` button in the toolbar (it looks like a document with a plus sign).
-3. Select the template you want to use from the list. The template content will be inserted into your new note.
+### 🗃️ **08 - Logs & Archives**
+Stores **past session notes, retired NPCs, and old quests** for record-keeping.
 
-## Available Templates
+---
 
-### Locations
+## ⚡ **How to Use This Vault**
+1. **Download or Clone the Vault**
+   - Clone this repo using:
+     ```sh
+     git clone https://github.com/YOUR_USERNAME/TTRPG-Campaign-Vault.git
+     ```
+   - Or manually copy the folder into your Obsidian vault directory.
 
-- **Cities**: Template for detailing cities, including sections for history, notable locations, NPCs, intrigues, and adventure hooks.
-- **Dungeons**: Template for detailing dungeons, including sections for attributes, history, layout, inhabitants, traps, hazards, treasure, and adventure hooks.
-- **Towns**: Template for detailing towns, similar to the cities template but on a smaller scale.
-- **Villages**: Template for detailing villages, including sections for history, notable locations, NPCs, and adventure hooks.
-- **Wilderness**: Template for detailing wilderness areas, including sections for attributes, history, geography, flora and fauna, hazards, points of interest, and adventure hooks.
+2. **Open in Obsidian**
+   - Launch **Obsidian** and open this folder as a vault.
 
-## Contributing
+3. **Use Templater for Quick Note Creation**
+   - This vault includes **Templater support** to quickly generate notes.
+   - Place templates in `_templates/` and use the **Templater plugin** to create:
+     - NPCs
+     - Quests
+     - Locations
+     - Sessions
 
-If you have suggestions for new templates or improvements to existing ones, feel free to open an issue or submit a pull request.
+4. **Customize to Your Campaign**
+   - Modify the structure as needed to fit your storytelling style.
+   - Add homebrew mechanics, new factions, or additional worldbuilding details.
 
-## License
+---
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 🔧 **Recommended Plugins**
+For the best experience, install the following **Obsidian plugins**:
+- 📝 **Templater** – Automate note creation with structured templates.
+- 🎭 **Dataview** – Create dynamic tables for NPC tracking, quest logs, etc.
+- 🏷 **Tag Wrangler** – Organize and manage NPCs, locations, and quests easily.
+- 📌 **Kanban** – Plan campaign arcs and track character development.
 
-Happy world-building!
+---
+
+## 📜 **License & Credit**
+This vault is **free to use and modify**. Feel free to adjust the folder structure, templates, and rules to match your campaign needs.
+
+Happy adventuring! 🎲🏰🔥
