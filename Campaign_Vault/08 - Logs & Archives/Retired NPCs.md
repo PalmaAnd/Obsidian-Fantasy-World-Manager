@@ -1,0 +1,2 @@
+# Retired NPCs
+

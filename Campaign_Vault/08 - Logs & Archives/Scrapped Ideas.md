@@ -1,0 +1,2 @@
+# Scrapped Ideas
+
